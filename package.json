@@ -1,0 +1,13 @@
+{
+    "name": "flocking-app",
+    "description": "A simple of example of using Flocking with Node.js",
+    "main": "index.js",
+    "version": "1.0.0",
+    "author": "Me",
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "flocking": "0.1.4",
+	"keypress": "0.2.1"
+    }
+}
